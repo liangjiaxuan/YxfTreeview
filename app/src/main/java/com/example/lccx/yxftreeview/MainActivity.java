@@ -103,6 +103,5 @@ public class MainActivity extends AppCompatActivity {
             }
             nodes.add(rootNodeTreeNode);
         }
-
     }
 }
